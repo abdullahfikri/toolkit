@@ -1,4 +1,6 @@
-UPDATE ALL PACKAGE IN PACKAGE.JSON
+**UPDATE ALL PACKAGE IN PACKAGE.JSON
 
 npm i -g npm-check-updates && ncu -u && npm i
 
+**Uninstalling local packages
+npm uninstall <package_name>
