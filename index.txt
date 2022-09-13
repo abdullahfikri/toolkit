@@ -9,3 +9,13 @@ npm uninstall <package_name>
 sudo dpkg -i appname.deb
 // if get error related to dependency
 sudo apt install -f
+
+********JAVASCRIPT**********
+--mendapatkan banyak hari dalam 1 bulan
+ const getDays = () => {
+        return new Date(Year, Month, 0).getDate();
+ };
+ // contoh
+  const getDays = () => {
+        return new Date(2022, 1, 0).getDate(); // mendapatkan jumlah hari pada bulan januari 2022
+    };
