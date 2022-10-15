@@ -1,3 +1,6 @@
+** NPM INIT DEFAULT QUESTION
+npm init -y
+
 **UPDATE ALL PACKAGE IN PACKAGE.JSON
 
 npm i -g npm-check-updates && ncu -u && npm i
