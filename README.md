@@ -28,3 +28,8 @@ sudo apt install -f
 
 ******* MYSQL ********
 1. Login to MYSQL : mysql -uroot -p
+
+
+***OpenSSL Pseudo Random Bytes***
+openssl rand -base64 21
+openssl rand -hex 20
