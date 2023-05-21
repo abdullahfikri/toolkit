@@ -31,5 +31,6 @@ sudo apt install -f
 
 
 ***OpenSSL Pseudo Random Bytes***
+
 openssl rand -base64 21
 openssl rand -hex 20
